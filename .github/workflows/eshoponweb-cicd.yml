@@ -8,7 +8,7 @@ env:
   RESOURCE-GROUP: rg-az400-eshoponweb-clement
   LOCATION: westeurope
   TEMPLATE-FILE: .azure/bicep/webapp.bicep
-  SUBSCRIPTION-ID: /subscriptions/21ea1386-2610-470c-b484-7817426b2e09
+  SUBSCRIPTION-ID: 21ea1386-2610-470c-b484-7817426b2e09
   WEBAPP-NAME: az400-webapp-clement93130
 
 
